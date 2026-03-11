@@ -1,0 +1,7 @@
+project_id = "nvekklpaglnmadhjvywx"
+
+[functions.detect-allergens]
+verify_jwt = false
+
+[functions.analyze-food-image]
+verify_jwt = false
